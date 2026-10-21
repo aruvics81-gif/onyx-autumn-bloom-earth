@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "OCHRE",
+      "hasCanvas": false,
+      "bodyTextLen": 1998,
+      "bodyTextHash": "0b540419e3c9e08d19ddb942f38c4c33a7bce626468041c96bc4c1626a5343ea",
+      "bodyTextPrefix": "OCHRE ILAIYARAAJA MUSEUM Home Discover Search Library Profile LI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "OCHRE",
+      "hasCanvas": false,
+      "bodyTextLen": 1936,
+      "bodyTextHash": "a16ad781ae70965f1b5abdf4318b64073a800313b46c5b403379268c161a1fb1",
+      "bodyTextPrefix": "OCHRE Sign in ISAIGNANI · A DIGITAL MUSEUM Designing my color vi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
